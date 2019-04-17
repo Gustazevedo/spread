@@ -31,7 +31,7 @@ html, body {
 
 .separador {
     display: flex;
-    padding-top: 15em;
+    padding-top: 10em;
     justify-content: space-between;
 }
 
@@ -51,6 +51,8 @@ html, body {
 
 .div_frase {
     max-width: 50%;
+    padding-left: 10em;
+    padding-top: 43em;
 }
 
 .frase {
