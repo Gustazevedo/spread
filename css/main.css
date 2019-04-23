@@ -112,4 +112,5 @@ html, body {
     width: 70%;
     height: 55%;
     background-color: aqua;
+    transition: visibility 0s, opacity 0.5s linear;
 }
